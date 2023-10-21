@@ -63,7 +63,7 @@ Here is the file structure of this repository
 ### Setup
 1. Clone the repo
    ```sh
-   git clone https://github.com/Dhaboav/python.git
+   git clone https://github.com/Dhaboav/learning-python.git
    ```
 2. Install Jupter Notebook
     ```sh
