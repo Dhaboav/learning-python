@@ -1,7 +1,7 @@
 import cv2 as cv
 from matplotlib import pyplot as plt
 
-image = cv.imread(r"img.jpeg", cv.IMREAD_REDUCED_COLOR_4)
+image = cv.imread(r"materi\opencv\img.jpeg", cv.IMREAD_REDUCED_COLOR_4)
 chans = cv.split(image)
 colors = ("b", "g", "r")
 plt.figure()

@@ -1,7 +1,7 @@
 from gambar import *
 import numpy as np
 
-gambar = cv.imread(r"img.jpeg")
+gambar = cv.imread(r"materi\opencv\img.jpeg")
 
 # ukuran untuk data yang di warp.
 width, height = 250,350

@@ -1,6 +1,7 @@
 from gambar import *
 
-gambar = cv.imread(r"img.jpeg")
+
+gambar = cv.imread(r"materi\opencv\img.jpeg")
 resize = cv.resize(gambar, (320, 320))
 blur = cv.blur(resize, (3,3))
 edge = cv.Canny(blur, 25, 100)
