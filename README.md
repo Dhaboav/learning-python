@@ -39,6 +39,19 @@ Here is the file structure of this repository
 |   |   ├── materi05.ipynb
 |   |   └── materi06.ipynb
 |   │
+|   ├── opencv
+|   |   |
+|   |   ├── src
+|   |   |   |
+|   |   |   ├── gambar.py
+|   |   |   ├── materi1.py
+|   |   |   ├── materi2.py
+|   |   |   ├── materi3.py
+|   |   |   ├── materi4.py
+|   |   |   └── video.py
+|   |   |           
+|   |   └── img.jpeg
+|   |
 |   └── struktur data
 |       |
 |       ├── linked_list.py
@@ -54,6 +67,7 @@ Here is the file structure of this repository
 |   ├── random_picker.py
 |   └── youtube2mp3.py
 |
+├── .gitignore
 └── README.md
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
