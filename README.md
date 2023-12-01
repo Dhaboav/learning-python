@@ -64,6 +64,7 @@ Here is the file structure of this repository
 |   ├── database_text.py
 |   ├── logger.txt
 |   ├── login.py
+|   ├── password_generator.py
 |   ├── random_picker.py
 |   └── youtube2mp3.py
 |
